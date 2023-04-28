@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/amaldev44/galaxy/static/css/main.e6c13ad2.css",
-    "main.js": "/amaldev44/galaxy/static/js/main.16acdb08.js",
-    "static/js/787.fa3061f1.chunk.js": "/amaldev44/galaxy/static/js/787.fa3061f1.chunk.js",
-    "static/media/sun.jpg": "/amaldev44/galaxy/static/media/sun.b34e6ead10e18ad3ad77.jpg",
-    "static/media/saturn ring.png": "/amaldev44/galaxy/static/media/saturn ring.bcc273749ba14b9a1a3c.png",
-    "static/media/uranus ring.png": "/amaldev44/galaxy/static/media/uranus ring.0c83eac82f5a812ff61c.png",
-    "static/media/earth.jpg": "/amaldev44/galaxy/static/media/earth.f3d3516ad626def9203b.jpg",
-    "static/media/pluto.jpg": "/amaldev44/galaxy/static/media/pluto.d86feaab54257fcf668d.jpg",
-    "static/media/mercury.jpg": "/amaldev44/galaxy/static/media/mercury.00e79a1eabdbbce2ff8a.jpg",
-    "static/media/venus.jpg": "/amaldev44/galaxy/static/media/venus.840e54b97ff26200bdde.jpg",
-    "static/media/mars.jpg": "/amaldev44/galaxy/static/media/mars.ff6c47a2547885b72d4b.jpg",
-    "static/media/jupiter.jpg": "/amaldev44/galaxy/static/media/jupiter.f247fc590e02c428df8c.jpg",
-    "static/media/saturn.jpg": "/amaldev44/galaxy/static/media/saturn.3995c1b1bfdfc4c07750.jpg",
-    "static/media/neptune.jpg": "/amaldev44/galaxy/static/media/neptune.bcbf9905e13eedfa7d26.jpg",
-    "static/media/stars.jpg": "/amaldev44/galaxy/static/media/stars.29ca757ff9bed6d69a42.jpg",
-    "index.html": "/amaldev44/galaxy/index.html",
-    "main.e6c13ad2.css.map": "/amaldev44/galaxy/static/css/main.e6c13ad2.css.map",
-    "main.16acdb08.js.map": "/amaldev44/galaxy/static/js/main.16acdb08.js.map",
-    "787.fa3061f1.chunk.js.map": "/amaldev44/galaxy/static/js/787.fa3061f1.chunk.js.map"
+    "main.css": "/galaxy/static/css/main.e6c13ad2.css",
+    "main.js": "/galaxy/static/js/main.f4ebf3f5.js",
+    "static/js/787.fa3061f1.chunk.js": "/galaxy/static/js/787.fa3061f1.chunk.js",
+    "static/media/sun.jpg": "/galaxy/static/media/sun.b34e6ead10e18ad3ad77.jpg",
+    "static/media/saturn ring.png": "/galaxy/static/media/saturn ring.bcc273749ba14b9a1a3c.png",
+    "static/media/uranus ring.png": "/galaxy/static/media/uranus ring.0c83eac82f5a812ff61c.png",
+    "static/media/earth.jpg": "/galaxy/static/media/earth.f3d3516ad626def9203b.jpg",
+    "static/media/pluto.jpg": "/galaxy/static/media/pluto.d86feaab54257fcf668d.jpg",
+    "static/media/mercury.jpg": "/galaxy/static/media/mercury.00e79a1eabdbbce2ff8a.jpg",
+    "static/media/venus.jpg": "/galaxy/static/media/venus.840e54b97ff26200bdde.jpg",
+    "static/media/mars.jpg": "/galaxy/static/media/mars.ff6c47a2547885b72d4b.jpg",
+    "static/media/jupiter.jpg": "/galaxy/static/media/jupiter.f247fc590e02c428df8c.jpg",
+    "static/media/saturn.jpg": "/galaxy/static/media/saturn.3995c1b1bfdfc4c07750.jpg",
+    "static/media/neptune.jpg": "/galaxy/static/media/neptune.bcbf9905e13eedfa7d26.jpg",
+    "static/media/stars.jpg": "/galaxy/static/media/stars.29ca757ff9bed6d69a42.jpg",
+    "index.html": "/galaxy/index.html",
+    "main.e6c13ad2.css.map": "/galaxy/static/css/main.e6c13ad2.css.map",
+    "main.f4ebf3f5.js.map": "/galaxy/static/js/main.f4ebf3f5.js.map",
+    "787.fa3061f1.chunk.js.map": "/galaxy/static/js/787.fa3061f1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.16acdb08.js"
+    "static/js/main.f4ebf3f5.js"
   ]
 }
